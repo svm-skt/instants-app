@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Instants",
+    "slug": "instants-app",
+    "version": "1.0.0",
+    "platforms": [
+      "android"
+    ],
+    "android": {
+      "package": "com.svm_skt.instants",
+      "versionCode": 1
+    },
+    "plugins": [],
+    "extra": {
+      "eas": {
+        "projectId": "7afe808c-8640-4ec5-b7e8-4f5fef9fbee1"
+      }
+    }
+  }
+}
